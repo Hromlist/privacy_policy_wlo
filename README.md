@@ -140,7 +140,7 @@ The only official channel for distribution of this app are:
 https://play.google.com
 
 Any other mode of distribution is not official and thus, is not maintained by the developer.
-This privacy policy is effective to distribution made on official channel only.\n\n
+This privacy policy is effective to distribution made on official channel only.
 
 <b>8. Changes to This Privacy Policy</b>
 

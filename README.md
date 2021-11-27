@@ -1,4 +1,4 @@
-Developer built the Слова Любимому: Смс, стихи о любви и признания app as an Ad Supported app. This
+Developer built the Слова Любимому: Смс и стихи и признания app as an Ad Supported app. This
 app is provided by at no cost and is intended for use as is:
 
 This privacy policy is used to inform you regarding policies with the collection, use, and

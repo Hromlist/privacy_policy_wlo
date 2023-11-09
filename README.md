@@ -29,6 +29,7 @@ https://firebase.google.com/policies/analytics
 https://legal.my.com/us/mytarget/privacy
 
 <b>Yandex</b>
+
 https://yandex.com/legal/confidential
 
 <b>2. Sharing Your Information</b>
